@@ -6,9 +6,14 @@ namespace ConsoleApp1
 {
     class Tree
     {
-        public Tree()
+        private Node root;
+
+        public Tree(int val)
         {
 
+
         }
+
+
     }
 }

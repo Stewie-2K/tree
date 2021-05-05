@@ -9,7 +9,11 @@ namespace ConsoleApp1
         public Node left;
         public Node right;
         public int val;
+        public Node()
+        {
 
+        }
+        
 
     }
 }
